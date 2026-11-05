@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Language core",
+      "description": "Language rules and editing for technical prose in the document's language.",
+      "skills": ["technical-language-core"]
+    }
+  ]
+}
