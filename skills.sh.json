@@ -6,6 +6,11 @@
       "title": "Language core",
       "description": "Language rules and editing for technical prose in the document's language.",
       "skills": ["technical-language-core"]
+    },
+    {
+      "title": "Decision making",
+      "description": "Decision-tree questioning that surfaces assumptions and turns a vague plan into agreed decisions before work starts.",
+      "skills": ["grilling"]
     }
   ]
 }
